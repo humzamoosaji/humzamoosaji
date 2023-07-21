@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @humzamoosaji
-- 👀 I’m interested in cyber security and software development
+- 👀 I’m interested in cloud computing, cyber security and software development
 - 🌱 I’m currently studying computer science
 
 
